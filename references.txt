@@ -1,0 +1,25 @@
+Commong Mapping References:
+
+Akimoto, Y., et al. (2012). Social cognition in sarcasm: An fMRI study. Journal of Cognitive Neuroscience, 24(3), 775-791.
+Colletta, L., et al. (2015). Critical thinking in satire and humor. Journal of Pragmatics, 85, 110-126.
+Gibbs, R. W. (2006). Embodiment and cognitive science. Cambridge University Press.
+Gibbs, R. W., & Colston, H. L. (2007). Irony in language and thought: A cognitive science reader. Lawrence Erlbaum Associates.
+Huang, Y., et al. (2015). Neural correlates of irony comprehension: The role of pragmatic competence. Neuropsychologia, 71, 20-29.
+Kövecses, Z. (2010). Metaphor: A practical introduction. Oxford University Press.
+Lakoff, G., & Johnson, M. (2008). Metaphors we live by. University of Chicago Press.
+Shibata, M., et al. (2010). Neural mechanisms involved in the comprehension of metaphors: An fMRI study. Brain Research, 1328, 77-83.
+Simpson, P. (2003). On the discourse of satire: Towards a stylistic model of satirical humour. John Benjamins Publishing.
+
+Distinct Mapping References:
+
+Akimoto, Y., et al. (2012). Social cognition in sarcasm: An fMRI study. Journal of Cognitive Neuroscience, 24(3), 775-791.
+Colletta, L., et al. (2015). Critical thinking in satire and humor. Journal of Pragmatics, 85, 110-126.
+Dynel, M. (2014). Irony, Deception, and Humour: Seeking the Truth about Overt and Covert Untruthfulness. Mouton de Gruyter.
+Gibbs, R. W., & Colston, H. L. (2007). Irony in language and thought: A cognitive science reader. Lawrence Erlbaum Associates.
+Gibbs, R. W. (2006). Embodiment and cognitive science. Cambridge University Press.
+Huang, Y., et al. (2015). Neural correlates of irony comprehension: The role of pragmatic competence. Neuropsychologia, 71, 20-29.
+Kövecses, Z. (2010). Metaphor: A practical introduction. Oxford University Press.
+Lakoff, G., & Johnson, M. (2008). Metaphors we live by. University of Chicago Press.
+Shibata, M., et al. (2010). Neural mechanisms involved in the comprehension of metaphors: An fMRI study. Brain Research, 1328, 77-83.
+Simpson, P. (2003). On the discourse of satire: Towards a stylistic model of satirical humour. John Benjamins Publishing.
+Voyer, D., et al. (2016). Understanding sarcasm: A cross-linguistic and cross-cultural perspective. Journal of Pragmatics, 94, 92-108.
